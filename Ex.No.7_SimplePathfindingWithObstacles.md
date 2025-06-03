@@ -1,6 +1,6 @@
 # Ex.No: 7  Implementation of Simple Pathfinding with Obstacles
 ### NAME : Chethan Kumar G                                                   
-### REGISTER NUMBER : 212222240116
+### REGISTER NUMBER : 212222240022
 ### AIM: 
 To write a program to pathfinding using AI navigation 
 ### Algorithm:
