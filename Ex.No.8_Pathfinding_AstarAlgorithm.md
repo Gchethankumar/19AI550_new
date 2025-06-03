@@ -1,6 +1,6 @@
 # Ex.No: 8  Implementation of Path finding using A* algorithm
 ### NAME : Chethan Kumar G                                                  
-### REGISTER NUMBER : 212222240116
+### REGISTER NUMBER : 212222240022
 ### AIM: 
 To write a program to create graph using waypoints and use A* algorithm to find path between source and destination.
 ### Algorithm:
