@@ -44,7 +44,6 @@ public class AIPathfinder : MonoBehaviour
     {
         agent = GetComponent<NavMeshAgent>(); // Get the NavMeshAgent
     }
-
     // Update is called once per frame
     void Update()
     {
@@ -55,7 +54,6 @@ public class AIPathfinder : MonoBehaviour
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
 public class Moving : MonoBehaviour
 {
     // Start is called before the first frame update
@@ -85,15 +83,8 @@ transform.position = startPos + new Vector3(movement, 0, 0);
 
 ![image](https://github.com/user-attachments/assets/3ef8e467-d8b0-44c3-9cfa-f93a5a9cb48d)
 
-
 #### After Reaching Target:
 ![image](https://github.com/user-attachments/assets/cf39f62f-84c0-4517-ad41-5d23d12f9ee4)
-
-
-
-
-
-
 
 ### Result:
 Thus the simple path finding  behavior was implemented using AI navigation successfully.
